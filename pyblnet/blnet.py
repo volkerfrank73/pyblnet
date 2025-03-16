@@ -39,7 +39,7 @@ class BLNET(object):
         web_port=80,
         password=None,
         ta_port=40000,
-        timeout=5,
+        timeout=20,
         max_retries=5,
         use_web=True,
         use_ta=False,
